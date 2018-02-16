@@ -1,4 +1,6 @@
-# lab_instructions.txt
+# README.md
 
-Start with that file 
-
+Sam Thacker<br>
+COMP 484<br>
+Oscar Marin<br>
+Homework 3
